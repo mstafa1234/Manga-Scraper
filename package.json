@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "scraping manga website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "node-fetch": "^3.1.0",
+    "puppeteer": "^13.0.1"
+  }
+}
